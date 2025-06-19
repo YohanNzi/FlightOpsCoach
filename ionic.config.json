@@ -1,0 +1,7 @@
+{
+  "name": "FlightOpsCoach",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
